@@ -1,4 +1,4 @@
-# AgriTrust - Agricultural Verification Center
+# AgriTrust
 
 A modern, responsive web application for managing agricultural verification workflows, built with React, TypeScript, and Tailwind CSS.
 
@@ -10,13 +10,6 @@ A modern, responsive web application for managing agricultural verification work
 - **Driver Management**: Handle driver verification workflows
 - **Activity Monitoring**: Recent verification activities and audit trails
 - **Responsive Design**: Works seamlessly across all device sizes
-
-### 📱 Responsive Design
-- **Mobile-First Approach**: Optimized for mobile devices
-- **Adaptive Layout**: Automatically adjusts to screen sizes
-- **Collapsible Sidebar**: Mobile-friendly navigation
-- **Touch-Friendly**: Optimized for touch interactions
-- **Cross-Device Compatibility**: Works on phones, tablets, and desktops
 
 ### 🎨 User Experience
 - **Modern UI**: Clean, professional interface
@@ -33,8 +26,6 @@ A modern, responsive web application for managing agricultural verification work
 
 ## Responsive Breakpoints
 
-- **Mobile**: < 640px (sm)
-- **Tablet**: 640px - 1024px (md, lg)
 - **Desktop**: > 1024px (xl, 2xl, 3xl)
 
 ## Getting Started
@@ -88,20 +79,12 @@ src/
 
 ## Responsive Features
 
-### Mobile Navigation
-- Hamburger menu for mobile devices
-- Overlay sidebar with smooth animations
-- Touch-friendly button sizes
-- Optimized spacing for small screens
-
 ### Adaptive Layouts
 - Flexible grid systems that adapt to screen size
 - Responsive typography scaling
 - Optimized spacing and padding
-- Collapsible sections for mobile
 
 ### Performance
-- Optimized for mobile performance
 - Efficient re-rendering
 - Smooth animations and transitions
 - Touch-optimized interactions
@@ -112,7 +95,6 @@ src/
 - Firefox 88+
 - Safari 14+
 - Edge 90+
-- Mobile browsers (iOS Safari, Chrome Mobile)
 
 ## Contributing
 

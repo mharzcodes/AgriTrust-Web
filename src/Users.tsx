@@ -1,4 +1,4 @@
-import React, {type JSX, useState} from "react";
+import {type JSX, useState} from "react";
 import { NavigationSideBarSection } from "./NavigationSideBarSection";
 import { PageHeader } from "./PageHeader";
 

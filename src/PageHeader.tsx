@@ -1,4 +1,4 @@
-import React, {type JSX, useState, useEffect} from "react";
+import {type JSX, useState, useEffect} from "react";
 
 interface PageHeaderProps {
     title: string;

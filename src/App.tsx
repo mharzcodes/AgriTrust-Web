@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Home } from "./Home";
 import { Dashboard } from "./Dashboard";
 import { Users } from "./Users";

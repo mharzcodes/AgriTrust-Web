@@ -1,7 +1,7 @@
-import React, {type JSX, useState} from "react";
+import {type JSX, useState} from "react";
 import { NavigationSideBarSection } from "./NavigationSideBarSection";
 import { PageHeader } from "./PageHeader";
-import { Modal } from "./Modal";
+
 
 interface TransactionsProps {
     onPageChange: (page: string) => void;
@@ -15,10 +15,6 @@ export const Transactions = ({ onPageChange }: TransactionsProps): JSX.Element =
         dateTo: "",
         productType: "All Products"
     });
-
-    const [selectedTransaction, setSelectedTransaction] = useState<any>(null);
-    const [isModalOpen, setIsModalOpen] = useState(false);
-
     const transactions = [
         {
             id: "#TXN-2024-001523",
@@ -137,17 +133,6 @@ export const Transactions = ({ onPageChange }: TransactionsProps): JSX.Element =
         // Filter logic would be implemented here
         console.log("Applying filters:", filters);
     };
-
-    const openModal = (transaction: any) => {
-        setSelectedTransaction(transaction);
-        setIsModalOpen(true);
-    };
-
-    const closeModal = () => {
-        setIsModalOpen(false);
-        setSelectedTransaction(null);
-    };
-
     return (
         <div className="min-h-screen bg-[#f1f1f1]">
             <NavigationSideBarSection onPageChange={onPageChange} currentPage="transactions" />

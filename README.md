@@ -1,4 +1,4 @@
-# AgriTrust - Agricultural Verification Center
+# AgriTrust
 
 A modern, responsive web application for managing agricultural verification workflows, built with React, TypeScript, and Tailwind CSS.
 

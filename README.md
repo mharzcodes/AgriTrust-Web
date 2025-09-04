@@ -11,13 +11,6 @@ A modern, responsive web application for managing agricultural verification work
 - **Activity Monitoring**: Recent verification activities and audit trails
 - **Responsive Design**: Works seamlessly across all device sizes
 
-### 📱 Responsive Design
-- **Mobile-First Approach**: Optimized for mobile devices
-- **Adaptive Layout**: Automatically adjusts to screen sizes
-- **Collapsible Sidebar**: Mobile-friendly navigation
-- **Touch-Friendly**: Optimized for touch interactions
-- **Cross-Device Compatibility**: Works on phones, tablets, and desktops
-
 ### 🎨 User Experience
 - **Modern UI**: Clean, professional interface
 - **Intuitive Navigation**: Easy-to-use sidebar navigation

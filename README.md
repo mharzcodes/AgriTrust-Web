@@ -26,8 +26,6 @@ A modern, responsive web application for managing agricultural verification work
 
 ## Responsive Breakpoints
 
-- **Mobile**: < 640px (sm)
-- **Tablet**: 640px - 1024px (md, lg)
 - **Desktop**: > 1024px (xl, 2xl, 3xl)
 
 ## Getting Started
@@ -85,10 +83,8 @@ src/
 - Flexible grid systems that adapt to screen size
 - Responsive typography scaling
 - Optimized spacing and padding
-- Collapsible sections for mobile
 
 ### Performance
-- Optimized for mobile performance
 - Efficient re-rendering
 - Smooth animations and transitions
 - Touch-optimized interactions

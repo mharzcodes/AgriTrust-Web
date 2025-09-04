@@ -81,12 +81,6 @@ src/
 
 ## Responsive Features
 
-### Mobile Navigation
-- Hamburger menu for mobile devices
-- Overlay sidebar with smooth animations
-- Touch-friendly button sizes
-- Optimized spacing for small screens
-
 ### Adaptive Layouts
 - Flexible grid systems that adapt to screen size
 - Responsive typography scaling
@@ -105,7 +99,6 @@ src/
 - Firefox 88+
 - Safari 14+
 - Edge 90+
-- Mobile browsers (iOS Safari, Chrome Mobile)
 
 ## Contributing
 
